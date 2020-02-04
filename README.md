@@ -6,10 +6,12 @@
 
 ## Description
 
-_This project is a webpage that allows a user to create a single bank account with an initial deposit amount. The webpage also allows a user to make withdrawals, deposits, and view the account balance._
+_This webpage allows two players to play pig dice. Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":_
+* _If the player rolls a 1, they score nothing and it becomes the next player's turn._
+* _If the player rolls any other number, it is added to their turn total and the player's turn continues._
+* _If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn._
 
 ## Specifications:
-
 
 | Specification | Example Input | Example Output |
 | ------------- |:-------------:| --------------:|
